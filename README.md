@@ -1,4 +1,14 @@
 # cv_team_A5
+
+**Group Members**
+
+| Student ID    | First Name  | Last Name      | E-Mail                  |
+| --------------|-------------|----------------|-------------------------|
+|     TODO      |     TODO    |     TODO       |     TODO                |
+|     TODO      |     TODO    |     TODO       |     TODO                |
+|     TODO      |     TODO    |     TODO       |     TODO                |
+|     TODO      |     TODO    |     TODO       |     TODO                |
+
 JKU Computer Vision Group for exercise
 
 
