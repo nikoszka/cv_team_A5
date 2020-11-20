@@ -24,3 +24,5 @@ Solution: your classification/localization algorithm
 Identify the main problems/tasks that you need to solve for this project.
 Find related scientific publications and present a quick overview.
 Get familiar with the data.
+
+PRESENTATION: https://docs.google.com/presentation/d/1q7RpDX3D2zvAAUolOd4lCCGsvzxW48Dom-4NExWFQ0E/edit?usp=sharing
