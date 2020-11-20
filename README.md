@@ -5,7 +5,7 @@
 | Student ID    | First Name  | Last Name      | E-Mail                  |
 | --------------|-------------|----------------|-------------------------|
 |     TODO      |     TODO    |     TODO       |     TODO                |
-|     TODO      |     TODO    |     TODO       |     TODO                |
+|   k11778023   |  Christoph  |    Ostertag    |     TODO                |
 |     TODO      |     TODO    |     TODO       |     TODO                |
 |     TODO      |     TODO    |     TODO       |     TODO                |
 
