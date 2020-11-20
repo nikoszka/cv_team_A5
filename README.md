@@ -4,7 +4,7 @@
 
 | Student ID    | First Name  | Last Name      | E-Mail                  |
 | --------------|-------------|----------------|-------------------------|
-|     TODO      |     TODO    |     TODO       |     TODO                |
+|   k11706481   |   Nikolas   |     Boldis     |     nikosz@hotmail.sk   |
 |   k11778023   |  Christoph  |    Ostertag    | christoph.ostertag@gmail.com |
 |     TODO      |     TODO    |     TODO       |     TODO                |
 |     TODO      |     TODO    |     TODO       |     TODO                |
